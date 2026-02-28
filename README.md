@@ -1,13 +1,13 @@
 # FUTURE_ML_02 2️⃣
 This is my 2nd task of my internship (Future Interns) where I built a Support Ticket Classification and Priority Prediction System using Machine Learning and Natural Language Processing (NLP) in Google Colab using Python.
 
-🟢 In this project, I worked with real customer support ticket data and built a Machine Learning model that can automatically:
+🟡 In this project, I worked with real customer support ticket data and built a Machine Learning model that can automatically:
 1.Classify support tickets into categories
 2.Predict ticket priority levels
 3.Help businesses handle support requests faster
 4.Project Work Included
 
-🟢 In this project I have done:
+🧑‍💻 In this project I have done:
 1.Data loading and cleaning
 2.Removing missing values
 3.Text preprocessing and cleaning
